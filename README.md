@@ -1,8 +1,10 @@
 ### Hi, I'm James Mitchell
 
-I'm a senior solutions consultant. I help teams at large organizations understand how they work today and build hands-on demos so they can try a new approach.
+I'm a senior solutions consultant. I help teams at large organizations map how they work today, then build hands-on demos so they can try a new approach before they commit to it. Lately that means AI agents: where they fit in a real workflow, and where people should stay in charge.
 
-#### Mitchell Bike Co.
+#### Featured Project: Mitchell Bike Co. Demo
+
+Mitchell Bike Co. isn't a real shop. It's a fictional bike shop I built to show how I'd take a team through AI adoption, in a setting anyone can follow.
 
 I chose a bike shop because I love cycling. It also shows how I think about AI adoption. I find it most useful to start with a workflow people already know, then ask where an AI agent can help and which decisions belong to people.
 
