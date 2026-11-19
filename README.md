@@ -1,6 +1,6 @@
 ### Hi, I'm James Mitchell
 
-I'm a senior solutions consultant. I help teams at large organizations map how they work today, then build hands-on demos so they can try a new approach before they commit to it. Lately that means AI agents: where they fit in a real workflow, and where people should stay in charge.
+I'm a senior solutions consultant. I help teams at large organizations understand how AI can transform their workflows and build hands-on demos so they can experience the technology and value firsthand. 
 
 #### Featured Project: Mitchell Bike Co. Demo
 
